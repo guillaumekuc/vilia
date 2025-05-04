@@ -1,4 +1,6 @@
-# Obsidian / Quartz / GitHub Pages Template
+# Vilia Wiki
+
+Built with Quartz. Edit w/ Obsidian.
 
 Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
 
