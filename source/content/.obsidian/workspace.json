@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "World/Species/Ravens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Ravens"
             }
           }
         ]
@@ -181,12 +181,12 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "World/Species/Frogs.md",
     "World/Species/Humans.md",
     "World/Species/Pigs.md",
     "World/Species/Ravens.md",
-    "World/index.md",
+    "World/Species/Frogs.md",
     "index.md",
+    "World/index.md",
     "Tactics/Some note.md",
     "Tactics/index.md",
     "Worldbuilding/Species/Untitled",
